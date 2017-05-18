@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Documentos\Treehouse\Techdegree\Android\Project 3\MyApplication2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e5c5add1b0c350d7ae6639a2c607ed2af943013">
+        <dex dex="E:\Documentos\Treehouse\Techdegree\Android\Project 3\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4fc3be007fa3be9cd182397804a0e4c4a7904bb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documentos\Treehouse\Techdegree\Android\Project 3\MyApplication2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Documentos\Treehouse\Techdegree\Android\Project 3\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9fadd7046c2b8a6c28030acc4b5d02e18ca095b4\classes.dex" />
+    </item>
+
+</items>
